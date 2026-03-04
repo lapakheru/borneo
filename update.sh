@@ -106,7 +106,7 @@ hokage_anim() {
 # ==================================================
 run_update() {
     # 1. Download & Install FV Tunnel
-    wget -qO- fv-tunnel "https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/refs/heads/main/config/fv-tunnel" 
+    wget -qO- fv-tunnel "https://raw.githubusercontent.com/lapakheru/borneo/refs/heads/main/config/fv-tunnel" 
     chmod +x fv-tunnel 
     bash fv-tunnel
     rm -rf fv-tunnel
@@ -115,7 +115,7 @@ run_update() {
     rm -rf /usr/local/sbin/*
     
     # 3. Download & Ekstrak Menu
-    wget https://github.com/hokagelegend9999/alpha.v2/raw/refs/heads/main/menu/menu.zip
+    wget https://raw.githubusercontent.com/lapakheru/borneo/refs/heads/main/menu/menu.zip
     unzip -o menu.zip > /dev/null 2>&1
     chmod +x menu/*
     mv menu/* /usr/local/sbin/
@@ -123,7 +123,7 @@ run_update() {
     rm -rf menu.zip
     
     # 4. Download Menu Utama
-    wget -q -O /usr/local/sbin/menu https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/refs/heads/main/menu/menu
+    wget -q -O /usr/local/sbin/menu https://raw.githubusercontent.com/lapakheru/borneo/refs/heads/main/menu/menu
     chmod +x /usr/local/sbin/menu
     
     # 5. Buat Folder Usage
@@ -181,7 +181,7 @@ rm -rf update.sh
 clear
 echo -e ""
 print_gradient "╭══════════════════════════════════════════╮"
-print_gradient "│      HOKAGE LEGEND SYSTEM UPDATER        │"
+print_gradient "│      BORNEO SSH SYSTEM UPDATER        │"
 print_gradient "╰══════════════════════════════════════════╯"
 echo -e ""
 echo -e "  ${ORANGE}Please wait while we update your resources...${NC}"
