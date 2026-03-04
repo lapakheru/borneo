@@ -41,13 +41,12 @@ Untuk lebih jelasnya, silakan tonton video panduan instalasi di bawah ini:
 
 ```
 wget -q https://github.com/lapakheru/borneo/raw/refs/heads/main/update.sh && chmod +x update.sh && ./update.sh
-``
+```
 
 ### 6. Selesai
 
 ==================== JIKA VPS UBUNTU LEBIH DARI UBUNTU 20.0.4 WAJIB DOWNGRADE KE UBUNTU 20.0.4 =================
 ###  COPY PASTE LINK BERIKUT UNTUK DOWNGRADE VPS KE UBUNTU 20
-
 
 ```
 wget https://raw.githubusercontent.com/lapakheru/borneo/refs/heads/main/install-ulang
