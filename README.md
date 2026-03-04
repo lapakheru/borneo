@@ -38,3 +38,19 @@ Untuk lebih jelasnya, silakan tonton video panduan instalasi di bawah ini:
 </table>
 
 ### 5. Selesai
+
+================================= JIKA VPS UBUNTU LEBIH DARI UBUNTU 20.0.4 WAJIB DOWNGRADE KE UBUNTU 20.0.4========================
+###  COPY PASTE LINK BERIKUT UNTUK DOWNGRADE VPS KE UBUNTU 20
+
+
+```
+wget https://raw.githubusercontent.com/lapakheru/borneo/refs/heads/main/install-ulang
+chmod +x install-ulang
+./install-ulang
+```
+
+- PILIH NOMOR 2.UBUNTU
+- PILIH VERSI NOMOR 1 . 20.04
+- krtika di minta masukan atau ketikan huruf Y ( lalu ENTER )
+- TUNGGU PROSSES NYA KURANG LEBIH 10 MENIT
+- SELESAI MASUK SUDAH BERUBAH MENJADI UBUNTU 20.04
