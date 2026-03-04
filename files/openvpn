@@ -10,7 +10,7 @@ function ovpn_install() {
     rm -rf /etc/openvpn
     mkdir -p /etc/openvpn
     # Perbaikan link github agar menggunakan RAW (lebih stabil)
-    wget -O /etc/openvpn/vpn.zip "https://github.com/hokagelegend9999/alpha.v2/raw/refs/heads/main/config/vpn.zip" >/dev/null 2>&1
+    wget -O /etc/openvpn/vpn.zip "https://raw.githubusercontent.com/lapakheru/borneo/refs/heads/main/config/vpn.zip" >/dev/null 2>&1
     unzip -d /etc/openvpn/ /etc/openvpn/vpn.zip
     rm -f /etc/openvpn/vpn.zip
     chown -R root:root /etc/openvpn/server/easy-rsa/
@@ -129,7 +129,7 @@ function cert_ovpn() {
     # --- DOWNLOAD LOGO ---
     # Mengambil logo.png dari GitHub Anda
     rm -f /var/www/html/logo.png /var/www/html/logo.jpg
-    wget -q -O /var/www/html/logo.png "https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/main/ssh/logo.png"
+    wget -q -O /var/www/html/logo.png "https://raw.githubusercontent.com/lapakheru/borneo/refs/heads/main/ssh/logo.png"
     
     # Fallback jika logo gagal didownload (pakai placeholder)
     if [ ! -f /var/www/html/logo.png ]; then
