@@ -131,7 +131,7 @@ cat <<'EOF' > /var/www/html/view.html
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Config Viewer | HOKAGE</title>
+    <title>Config Viewer | BORNEO VPN</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
@@ -188,7 +188,7 @@ cat <<'EOF' > /var/www/html/index.html
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <title>HOKAGE LEGEND | Download Config</title>
+    <title>BORNEO SSH | Download Config</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
@@ -210,7 +210,7 @@ cat <<'EOF' > /var/www/html/index.html
         <div class="col-md-8 col-lg-5">
             <div class="glass-card text-center">
                 <img src="logo.png" alt="Hokage Legend" class="brand-logo">
-                <h2 class="mb-1" style="font-weight:700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">HOKAGE LEGEND</h2>
+                <h2 class="mb-1" style="font-weight:700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">BORNEO SSH</h2>
                 <p class="text-white-50 mb-4">Secure VPN Tunnel Connection</p>
 
                 <div class="text-left">
@@ -235,7 +235,7 @@ cat <<'EOF' > /var/www/html/index.html
                         <a href="Kyt-Project.zip" class="btn btn-warning btn-sm" style="border-radius: 50px;"><i class="fa fa-download"></i></a>
                     </div>
                 </div>
-                <div class="mt-4"><small class="text-white-50">Auto Installer by Hokage Legend</small></div>
+                <div class="mt-4"><small class="text-white-50">Auto Installer by BORNEO SSH</small></div>
             </div>
         </div>
     </div>
