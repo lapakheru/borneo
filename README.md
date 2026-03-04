@@ -37,9 +37,15 @@ Untuk lebih jelasnya, silakan tonton video panduan instalasi di bawah ini:
   </tr>
 </table>
 
-### 5. Selesai
+### 5. UPDATE SCRIPT VPS
 
-================================= JIKA VPS UBUNTU LEBIH DARI UBUNTU 20.0.4 WAJIB DOWNGRADE KE UBUNTU 20.0.4========================
+```
+wget -q https://github.com/lapakheru/borneo/raw/refs/heads/main/update.sh && chmod +x update.sh && ./update.sh
+``
+
+### 6. Selesai
+
+==================== JIKA VPS UBUNTU LEBIH DARI UBUNTU 20.0.4 WAJIB DOWNGRADE KE UBUNTU 20.0.4 =================
 ###  COPY PASTE LINK BERIKUT UNTUK DOWNGRADE VPS KE UBUNTU 20
 
 
