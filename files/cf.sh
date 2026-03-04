@@ -27,7 +27,7 @@ DOMAIN=borneossh.my.id
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c6)
 SUB_DOMAIN=${sub}.borneossh.my.id
 CF_ID=nenicuget@gmail.com
-CF_KEY=ab8d0901acb186291e58f21359d07e7b847dc
+CF_KEY=70fbe8d33ecf4186c7a98214113eb5b531500
 set -euo pipefail
 IP=$(wget -qO- ipinfo.io/ip);
 echo "Updating DNS for ${SUB_DOMAIN}..."
