@@ -285,7 +285,7 @@ echo -e "    ${z}═════════════════════
 echo -e "             ${KIRI}${z} INFORMATION YOUR ACTIVE PERIOD ${z}${KANAN}"
 echo -e " ${z}╭══════════════════════════════════════════════════════════╮${NC}"
 echo -e " ${z}    $NC${z} Developer$NC  ${z} =$NC BORNEO SSH STORE"
-echo -e " ${z}    $NC${z} Telegram$NC   ${z} =$NC https://t.me/hokagelegend1"
+echo -e " ${z}    $NC${z} Telegram$NC   ${z} =$NC @BorneoCybernet"
 echo -e " ${z}    $NC${z} IP ADDRESS ${z} =$NC $IPVPS${NC}"
 echo -e " ${z}    $NC${z} User$NC       ${z} =$NC $username"
 echo -e " ${z}    $NC${z} Exp Script$NC ${z} =$NC $exp $certifacate Days$NC $sts"
