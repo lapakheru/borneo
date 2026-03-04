@@ -1,4 +1,4 @@
-# SCRIPT BORNEO SSH & XRAY ( UBUNTU 18 & 20 / DEBIAN 9 & 10 )
+## SCRIPT BORNEO SSH & XRAY ( UBUNTU 18 & 20 / DEBIAN 9 & 10 )
 
 ## Cara Install
 
