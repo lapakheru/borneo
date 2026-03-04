@@ -8,6 +8,8 @@ SCRIPT BORNEO SSH & XRAY
 
 ### 2. Pastikan Domain Sudah di pointing di cloudflare 
 
+![Contoh Pointing Domain](https://github.com/lapakheru/borneo/blob/main/CONTOH.png?raw=true)
+
 ### 3. Install Script Borneo dengan copy paste Link di bawah ini ke VPS Yang ingin di install :
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://github.com/lapakheru/install/raw/refs/heads/main/install-borneo && chmod +x install-borneo && ./install-borneo
