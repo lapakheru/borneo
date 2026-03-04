@@ -1,6 +1,4 @@
 #!/bin/bash
-# Hokage
-# ==========================================
 # Color
 RED='\033[0;31m'
 NC='\033[0m'
@@ -25,10 +23,10 @@ fi
 clear
 apt install jq curl -y
 ###DOM#AIN=installer.my.id
-DOMAIN=hokage.web.id
+DOMAIN=borneossh.my.id
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c6)
-SUB_DOMAIN=${sub}.hokage.web.id
-CF_ID=faridaumiabi@gmail.com
+SUB_DOMAIN=${sub}.borneossh.my.id
+CF_ID=nenicuget@gmail.com
 CF_KEY=ab8d0901acb186291e58f21359d07e7b847dc
 set -euo pipefail
 IP=$(wget -qO- ipinfo.io/ip);
