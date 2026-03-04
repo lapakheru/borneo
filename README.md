@@ -1,6 +1,6 @@
-SCRIPT BORNEO SSH & XRAY
+# SCRIPT BORNEO SSH & XRAY ( UBUNTU 18 & 20 / DEBIAN 9 & 10 )
 
-# Cara Install
+## Cara Install
 
 ### 1. Daftarkan terlebih dahulu IP VPS Yang ingin di install di link berikut ini :
 
