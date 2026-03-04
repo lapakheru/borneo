@@ -191,13 +191,13 @@ print_gradient_footer "    PILIH MENU DENGAN CARA KETIK 1/15 LALU ENTER "
 print_gradient_footer " ╰════════════════════════════════════════════════╯"
 
 echo -e "    ${Blue}╭════════════════════════════════════════════╮${NC}"
-echo -e "    ${Blue}   $NC${G1}Dev${G2}eloper${NC}      ${z}=${NC} HOKAGE LEGEND"
-echo -e "    ${Blue}   $NC${G1}Tel${G2}egram${NC}       ${z}=${NC} @HookageLegend"
+echo -e "    ${Blue}   $NC${G1}Dev${G2}eloper${NC}      ${z}=${NC} BORNEO SSH STORE"
+echo -e "    ${Blue}   $NC${G1}Tel${G2}egram${NC}       ${z}=${NC} @BorneoCybernet"
 echo -e "    ${Blue}   $NC${G1}IP ${G2}ADDRESS${NC}     ${z}=${NC} $IPVPS${NC}"
 echo -e "    ${Blue}   $NC${G1}Us${G2}er${NC}           ${z}=${NC} $username"
 echo -e "    ${Blue}   $NC${G1}Exp${G2} Script${NC}     ${z}=${NC} $exp $certifacate Days$NC $sts"
 echo -e "    ${Blue}╰═════════════════════════════════════════════╯${NC}"
-echo -e "   \033[1;31m>\033[1;33m>\033[1;32m>\033[5m${CYAN} THANKS YOU FOR USING BORNEO STORE \033[0m\033[1;32m<\033[1;33m<\033[1;31m<${NC}"
+echo -e "   \033[1;31m>\033[1;33m>\033[1;32m>\033[5m${CYAN} THANKS YOU FOR USING BORNEO SSH STORE \033[0m\033[1;32m<\033[1;33m<\033[1;31m<${NC}"
 echo -e ""
 
 # --- LOGIKA MENU ---
