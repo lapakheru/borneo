@@ -4,5 +4,5 @@ SCRIPT BORNE SSH & XRAY
 
 ### 1. Daftarkan terlebih dahulu IP VPS Yang ingin di install di link berikut ini :
 
->>> https://github.com/lapakheru/ijin/blob/main/vip
+>>> https://github.com/lapakheru/ijin/blob/main/vip >>>
 
