@@ -1,10 +1,4 @@
 #!/bin/bash
-# =========================================
-# Quick Setup | SlowDNS Manager (Auto-Mode)
-# =========================================
-# [INFO] Integrasi Otomatis dengan Bot Hokage Legend
-# =========================================
-
 BGreen='\e[1;32m'
 BYellow='\e[1;33m'
 BRed='\e[1;31m'
@@ -53,7 +47,7 @@ echo "nameserver 1.1.1.1" >> /etc/resolv.conf
 mkdir -p /etc/slowdns
 chmod 777 /etc/slowdns
 
-REPO="https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/refs/heads/main/slowdns"
+REPO="https://raw.githubusercontent.com/lapakheru/borneo/refs/heads/main/slowdns"
 wget -q -O /etc/slowdns/server.key "${REPO}/server.key"
 wget -q -O /etc/slowdns/server.pub "${REPO}/server.pub"
 wget -q -O /etc/slowdns/sldns-server "${REPO}/sldns-server"
