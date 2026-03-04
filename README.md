@@ -26,11 +26,11 @@ Untuk lebih jelasnya, silakan tonton video panduan instalasi di bawah ini:
       <b>Part 1: Persiapan VPS & Domain</b>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=ID_VIDEO_2">
-        <img src="https://img.youtube.com/vi/ID_VIDEO_2/maxresdefault.jpg" alt="Panduan Part 2" width="400">
+      <a href="https://youtu.be/v0tvwGXiW0c">
+        <img src="https://i9.ytimg.com/vi_webp/v0tvwGXiW0c/mqdefault.webp?v=67b1a7b3&sqp=CNCtns0G&rs=AOn4CLCVVgDyNW2L1Gfo-ONrJGQTzmTMoQ" alt="Panduan Part 2" width="400">
       </a>
       <br>
-      <b>Part 2: Proses Instalasi Script</b>
+      <b>Part 2: Pointing Domain Cloudflare</b>
     </td>
   </tr>
 </table>
