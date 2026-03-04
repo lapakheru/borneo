@@ -66,7 +66,7 @@ res1() {
     mkdir -p /usr/bin/kyt/modules
     
     # Download Modules (Menggunakan URL RAW yang benar)
-    wget -q -O modules.zip "https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/main/bot/modules.zip"
+    wget -q -O modules.zip "https://github.com/lapakheru/borneo/raw/refs/heads/main/bot/modules.zip"
     unzip -o modules.zip > /dev/null 2>&1
     
     # Cek apakah hasil unzip membuat folder 'modules' atau flat file
@@ -86,7 +86,7 @@ res1() {
     mkdir -p /usr/bin/kyt/shell
     
     # Download Shell
-    wget -q -O shell.zip "https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/main/bot/shell.zip"
+    wget -q -O shell.zip "https://github.com/lapakheru/borneo/raw/refs/heads/main/bot/shell.zip"
     unzip -o shell.zip > /dev/null 2>&1
     
     if [ -d "shell" ]; then
