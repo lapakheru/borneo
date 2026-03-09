@@ -1,6 +1,6 @@
 #!/bin/bash
 # ======================================================
-#   HOKAGE LEGEND MENU-X (Optimized Fast Render)
+#   BORNEO SSH MENU-X (Optimized Fast Render)
 # ======================================================
 
 # COLOR VALIDATION
@@ -169,7 +169,7 @@ clear
 # ==================================================
 echo -e " "
 print_gradient " ╭══════════════════════════════════════════════════╮"
-print_gradient " │     BORNEO SSH STORE AUTOSCRIPT PREMIUM       │"
+print_gradient " │     BORNEO SSH STORE AUTOSCRIPT PREMIUM          │"
 print_gradient " ╰══════════════════════════════════════════════════╯"
 echo -e " ${YELL}╭══════════════════════════════════════════════════╮${NC}"
 echo -e "  ${z}$NC [${white}01${NC}]$grenbo DATA USER DELET & EXP $NC  ${z} $NC [${white}08${NC}]$purple RENNEW DOMAIN$NC"  
