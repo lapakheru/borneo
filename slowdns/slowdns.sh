@@ -59,7 +59,7 @@ chmod +x /etc/slowdns/sldns-client
 # Server Service
 cat > /etc/systemd/system/server-sldns.service << END
 [Unit]
-Description=Server SlowDNS By Hokage Legend
+Description=Server SlowDNS By Borneo SSH
 After=network.target nss-lookup.target
 
 [Service]
@@ -76,7 +76,7 @@ END
 # Client Service
 cat > /etc/systemd/system/client-sldns.service << END
 [Unit]
-Description=Client SlowDNS By Hokage Legend
+Description=Client SlowDNS By Borneo SSH
 After=network.target nss-lookup.target
 
 [Service]
@@ -107,7 +107,7 @@ if [[ -n "$AUTO_CHATID" ]]; then
     TEXT+="🔌 <b>Target Port :</b> <code>127.0.0.1:2269</code>%0A"
     TEXT+="📅 <b>Waktu       :</b> <code>$(date +'%Y-%m-%d %H:%M:%S')</code>%0A"
     TEXT+="<code>─────────────────────────────</code>%0A"
-    TEXT+="🚀 <b>Hokage Legend SlowDNS Service</b>"
+    TEXT+="🚀 <b>Borneo SSH SlowDNS Service</b>"
 
     # Tombol Kembali
     KEYBOARD='{"inline_keyboard": [[{"text": "🔙 KEMBALI KE MENU", "callback_data": "menu"}]]}'
